@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik155&label=Profile%20views&color=0e75b6&style=flat" alt="ashik155" /> </p>
 
-<h2> I am currently pursuing Post Gradution Certification in Lambton COllege. Always open for new ideas that lead eventually to solve complex real world problem. If you are lookig for a collaborator who can work on javascript and other oop based develoment, you can write up me using email attached below. </h2>
+<h2> I am currently pursuing Post Gradution Certification in Lambton College. Always open for new ideas that lead eventually to solve complex real world problem. If you are lookig for a collaborator who can work on javascript and other oop based develoment, you can write up me using email attached below. </h2>
 
 - 💬 Ask me about **JavaScript and Backend Development**
 

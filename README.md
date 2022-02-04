@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik155&label=Profile%20views&color=0e75b6&style=flat" alt="ashik155" /> </p>
 
-- 🔭 I’m currently working on [Cafe Menu System](NA)
-
-- 🌱 I’m currently learning **REACT,NEXT.js,GraphQL, and other Associated Js Framework**
-
-- 👯 I’m looking to collaborate on [FullStack Projects](NA)
-
-- 🤝 I’m looking for help with [MERN,MEAN,DJANGO FUllStack](NA)
-
-- 👨‍💻 All of my projects are available at [Working on it....](Working on it....)
+<h2> I am currently pursuing Post Gradution Certification in Lambton COllege. Always open for new ideas that lead eventually to solve complex real world problem. If you are lookig for a collaborator who can work on javascript and other oop based develoment, you can write up me using email attached below. </h2>
 
 - 💬 Ask me about **JavaScript and Backend Development**
 

@@ -16,7 +16,10 @@
 </p>
 <h3 align="left">Projects </h3>
 <p align="left">
-  <a href="https://github.com/Ashik155/PizzaApp" target="blank"><img align="center"><span>Pizza Pizza </span></a>
+  <a href="https://github.com/Ashik155/PizzaApp" target="blank"><img align="center"><span>Pizza Pizza </span></a> </br>
+  <a href="https://github.com/ashikpatel-doof/newUpdate" target="blank"><img align="center"><span> Task Tester API  </span></a> </br>
+  <a href="https://github.com/Ashik155/tubers-FollowedByCourse-" target="blank"><img align="center"><span>Hiring Portal For YouTubers </span></a> </br>
+  <a href="https://github.com/Ashik155/twitchclone" target="blank"><img align="center"><span>Twitch Clone </span></a></br>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>

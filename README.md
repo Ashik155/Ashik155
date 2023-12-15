@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashik Patel</h1>
-<h3 align="center">A passionate Software Enthustiastic from Toronto, Canada</h3>
+<h3 align="center">A passionate Software Enthustiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik155&label=Profile%20views&color=0e75b6&style=flat" alt="ashik155" /> </p>
 
-<h2> I am currently pursuing Post Gradution Certification in Lambton College. Always open for new ideas that lead eventually to solve complex real world problem. If you are lookig for a collaborator who can work on javascript and other oop based develoment, you can write up me using email attached below. </h2>
-
-- 💬 Ask me about **JavaScript and Backend Development**
+<h2>
+Experienced Associate Fullstack Software Developer proficient in JavaScript, TypeScript, Python, and Java. Skilled in front-end and back-end development with ReactJS, AngularJS, VueJS, NodeJS, and ExpressJS. Extensive database expertise in MySQL, MongoDB, PostgreSQL, AWS RDS, and more. Hands-on experience managing servers on AWS, Azure, and Google Cloud. Strong background in RESTful API development and secure user authentication. Well-versed in Git, Redux, React components, and cloud platforms such as AWS and Google Cloud Platform. Solid understanding of functional programming, Agile methodology, SDLC, and microservices. Effective collaboration with cross-functional teams and commitment to creating comprehensive technical documentation. Proven ability to identify and resolve performance bottlenecks. Continuous learner, staying updated with emerging technologies. Currently contributing to Xennial Innovations Inc. since May 2022. </h2>
 
 - 📫 How to reach me **ashikpatel444@gmail.com**
 
